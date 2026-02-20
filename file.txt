@@ -1,3 +1,5 @@
 Git :
   Git is software, it is used to track the changes of code.
-  git is  managing the different version of code. 
+  git is  managing the different version of code.  
+Git Hub:
+   Git hub is online platfrom , it is used to maintain source code of managment sytsem.   
